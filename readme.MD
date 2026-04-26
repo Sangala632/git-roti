@@ -14,9 +14,10 @@
     - dosa
     - oil
     - karam 
-    - chicken
+    - chicken 
 # egg dosa
     - dosa
-    - 2 egg
+    - 1/2 egg
     - oil
     - karam
+    - chicken 
