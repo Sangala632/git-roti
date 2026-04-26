@@ -10,3 +10,8 @@
     - ghee
     - chicken
     - oil
+# dosa-karam
+    - dosa
+    - oil
+    - karam 
+    - chicken 
