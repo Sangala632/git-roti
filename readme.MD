@@ -15,3 +15,8 @@
     - oil
     - karam 
     - chicken 
+
+# egg dosa
+    - dosa
+    - egg
+    - oil
